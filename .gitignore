@@ -7,3 +7,5 @@ File.txt
 
 ignore node modules folder
 node_modules
+
+#nothing to ignore
