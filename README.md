@@ -27,7 +27,7 @@ def foo():
 - [ ] completed
 
 :smile:
-@VishalParmar5
+@ VishalParmar5
 :smile:
 (~~hello~~)
 Column1 | Column2
