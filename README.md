@@ -26,7 +26,7 @@ def foo():
 - [x] not completed
 - [ ] completed
 
-[image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HEr6fykbgN_GnedAp8PnRmCSGi96QBnqkA&usqp=CAU.jpg)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HEr6fykbgN_GnedAp8PnRmCSGi96QBnqkA&usqp=CAU.jpg)
 
 (f04f8b76dc60f4feb691174daab36094eb1136cb)
 
