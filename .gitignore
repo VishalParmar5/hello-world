@@ -1,6 +1,6 @@
 #git Ignore file Add.
 #ignore File1.txt
-File1.txt
+File.txt
 
 #ignore all .html file
 *.html
