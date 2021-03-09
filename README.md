@@ -26,8 +26,9 @@ def foo():
 - [x] not completed
 - [ ] completed
 
+@react
 :smile:
-"@VishalParmar5"
+@VishalParmar5
 :smile:
 (~~hello~~)
 Column1 | Column2
