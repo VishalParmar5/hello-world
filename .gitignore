@@ -4,3 +4,6 @@ Not.txt
 
 #folder Ignore
 new
+
+#ignore .html prefix file
+*.html
